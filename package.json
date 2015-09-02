@@ -1,5 +1,5 @@
 {
-  "name": "magentojs",
+  "name": "MagentoJS",
   "version": "0.0.1",
   "description": "A Magento's connector for Node.js applications \n\n\n\n Credits to <a href='http://qzaidi.github.io/2011/10/16/magento-node/'>Alan Kay</a>",
   "main": "index.js",
